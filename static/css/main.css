@@ -1,0 +1,8 @@
+#tableDiv {
+    display: none;
+}
+
+#errorDiv {
+    display: none;
+    color: red;
+}
